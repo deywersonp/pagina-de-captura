@@ -60,6 +60,7 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 - Type `git clone`
 - Insert the HTTP or SSH key (on windows, shift + insert to paste on gitBash)
 - You can find this HTTP or SSH Key by clicking on `Code` on the top right in this repository
+![image](https://user-images.githubusercontent.com/79553681/127923711-8580bf14-bd2f-4d2d-907e-29e1ff9742c1.png)
 
 
 - Once cloned you can open the project in your IDE and open the archive `index.html` on your browser.
@@ -72,13 +73,11 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 ![Homepage image](.github/home.png)
 
 
-### 2 - On this page you can enter and manage your tasks
-#### 2.1 - You can delete a task `Apagar` button or clean all tasks `Limpar Tudo` button
-![Inserting_task_image](.github/inserting-task.png)
+### 2 - On this page you can enter customer's information, like name, email and city
+![Filled_image](.github/filled.png)
 
-<br> 
-
-### Have you prepared your to-do list? Time to get your hands dirty!
+### 3 - When you click send, a new page will open informing you of the successful registration in the contact list
+![Subscription_send_image](.github/subscription.png)
  
 <br>
 
@@ -86,10 +85,8 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 
 The main features of the application are:
 
- - Storage of added tasks in localStorage
- - Add a task
- - Remove a task
- - Remove all tasks
+ - Get customer information
+ - Registering in a database for sending email
  
 <br>
 
