@@ -23,11 +23,7 @@
 
 ## 💻 Project
 
-TODO List is a project developed to pratice knowledg adquired in JavaScript Intermediary. It's a project based on create online tasks list.
-
-On the last class lessons, we learned how to use localStorage to save information, and we were challenged to make a ToDo List with this configuration.
-
-Challenged by Desenvolvimento WEB - Do Zero ao Primeiro projeto (Programador BR) - JavaScript Intermediary 16ª lesson. 
+"Página de Captura" is a project developed with the objective of registering a customer in a contact list, which will be used to send emails informing about future events.
 
 <br>
 
